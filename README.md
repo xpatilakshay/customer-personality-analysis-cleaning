@@ -49,6 +49,6 @@ This project was part of an internship task but is also structured to be showcas
 **Akshay Patil**  
 [GitHub Portfolio](https://github.com/xpatilakshay)  
 [LinkedIn](https://www.linkedin.com/in/xpatilakshay/)
-[Instagram](https://instagram.com/axshaypatil)
+[Instagram](https://instagram.com/xpatilakshay)
 
 ---
