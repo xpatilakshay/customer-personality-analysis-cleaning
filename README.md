@@ -1,6 +1,3 @@
-# customer-personality-analysis-cleaning
-Data cleaning and preprocessing of the Customer Personality Analysis dataset using Python (Pandas). Part of a Data Analyst internship project focused on preparing raw marketing data for analysis.
-
 # 🧼 Customer Personality Analysis - Data Cleaning
 
 Welcome! This project focuses on **cleaning and preprocessing** raw customer marketing data to prepare it for effective analysis. The dataset was sourced from a marketing campaign and includes customer demographics, purchase behavior, and spending patterns.
